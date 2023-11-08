@@ -7,6 +7,8 @@
 
 ![Ferrera GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoFerrera&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFerrera)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -24,5 +26,3 @@ Procuro nessa minha passagem agregar o máximo de experiências para contribuir 
 
 ## Últimos projetos:
 - [Store Bag - Vue JS](https://store-bag.vercel.app/#/)<br/>
-
-
